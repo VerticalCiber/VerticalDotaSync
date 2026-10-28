@@ -2,6 +2,8 @@
 
 Программа для тех, у кого на одном компе несколько аккаунтов Steam и на каждом играется дота. Она переносит настройки доты с одного аккаунта на другой, чтобы не настраивать всё заново руками.
 
+### [⬇ Скачать VerticalDotaSync.exe](https://github.com/VerticalCiber/VerticalDotaSync/raw/main/VerticalDotaSync.exe)
+
 ## Что переносится
 
 - бинды клавиш
@@ -15,7 +17,7 @@
 
 ## Как пользоваться
 
-1. Скачай [VerticalDotaSync.exe](../../raw/main/VerticalDotaSync.exe).
+1. Скачай [VerticalDotaSync.exe](https://github.com/VerticalCiber/VerticalDotaSync/raw/main/VerticalDotaSync.exe).
 2. Закрой доту. Steam закрывать не обязательно.
 3. Запусти программу. Она сама найдёт Steam и все аккаунты, на которых запускалась дота.
 4. Слева выбери аккаунт, с которого берёшь настройки, справа тот, на который переносишь.
